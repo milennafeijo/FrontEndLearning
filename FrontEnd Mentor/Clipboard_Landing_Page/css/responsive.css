@@ -1,0 +1,163 @@
+@media (max-width: 1370px) {
+
+    .header img {
+        width: 30%;
+
+    }
+
+    .snippets_content {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .snippets_list {
+        text-align: center;
+        font-size: 1.25rem;
+    }
+
+    .snippets_item-title,
+    .section_title {
+        font-size: 2rem;
+    }
+
+
+    .tools_flex {
+        flex-direction: column;
+        gap: 0;
+        font-size: 1.40rem;
+    }
+
+    .partners_list {
+        flex-direction: column;
+    }
+
+    .partners_list img {
+        width: 100%;
+        font-size: 1rem;
+    }
+
+}
+
+@media (max-width: 768px) {
+
+    .header::before {
+        background: url('../images/bg-header-mobile.png') no-repeat;
+        background-size: cover;
+        background-position: 100%;
+        opacity: 0.5;
+        z-index: -1;
+    }
+
+
+
+    .header_title {
+        padding-bottom: 2rem;
+        max-width: 366px;
+        margin: 0 auto;
+        font-weight: 800;
+        font-size: 2.3rem;
+    }
+
+    .header_description,
+    .section_description {
+        padding-bottom: 2.5rem;
+        font-size: 1.25rem;
+        width: 75%;
+    }
+
+    .header_actions {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 1rem;
+
+    }
+
+    .btn {
+        width: 55%;
+        font-size: 1.30rem;
+    }
+
+
+    .snippets_content {
+
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .snippets_list {
+        text-align: center;
+        font-size: 1.25rem;
+    }
+
+    .snippets_item-title {
+        font-size: 2rem;
+    }
+
+    .image-devices {
+        width: 87%;
+        margin: 0 auto;
+    }
+
+    .tools_flex {
+
+        flex-direction: column;
+
+        gap: 0;
+    }
+
+    .tools_flex img {
+        width: 20%;
+    }
+
+    .partners_list {
+        flex-direction: column;
+
+    }
+
+    .partners_list img {
+        width: 100%;
+    }
+
+    .cta_actions {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 1rem;
+    }
+
+    .footer_content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+    }
+
+    .footer_content img {
+        margin: 0 auto;
+    }
+
+    .footer_nav {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        gap: 0;
+
+    }
+
+    .footer_social {
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+    }
+
+}
