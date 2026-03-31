@@ -47,7 +47,7 @@ Você pode ver o projeto rodando <a href="https://milennafeijo.github.io/Order_S
 
  <div align="center">
   
-  <img src="./FrontEnd Mentor/Order_Summary_Component/images/order-summary-component.jpg" width="70%">
+  <img src="./FrontEnd Mentor/Order_Summary_Component/images/order-summary-component.jpg" width="75%">
 
 </div>
   
