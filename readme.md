@@ -44,7 +44,7 @@ Você pode ver o projeto rodando <a href="https://milennafeijo.github.io/Order_S
 
  <div align="center">
   
-  <img src="https://private-user-images.githubusercontent.com/242267417/570924229-446a9946-1432-4b8f-ac83-f14f6fcc28ee.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ3NDc3MDQsIm5iZiI6MTc3NDc0NzQwNCwicGF0aCI6Ii8yNDIyNjc0MTcvNTcwOTI0MjI5LTQ0NmE5OTQ2LTE0MzItNGI4Zi1hYzgzLWYxNGY2ZmNjMjhlZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyOVQwMTIzMjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMGI0Y2E5OTgxYWZiODdlNzA0YWZhZDViODQ3ZWZiNmU3YzdlNjE3MmFhOTQyMDY4YTczYjg4NGJkMjRjMjI0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.iJSSbcj4DMkeNZa0k7ZYuPbzA1kvvfgUgwmdZTNrpAM" alt="Foto mostrando o site" width="70%">
+  <img src="./FrontEnd Mentor/Order_Summary_Component/images/order-summary-component.jpg" width="70%">
 
 </div>
   
