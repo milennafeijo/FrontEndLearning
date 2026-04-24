@@ -1,19 +1,50 @@
 
 # FrontEnd Learning 
 
+Repositório com projetos desenvolvidos para praticar fundamentos de JavaScript, HTML e CSS.
+<br><br>
+
+### Projetos de lógica com JavaScript
+
+Projetos focados em prática de lógica de programação e manipulação de DOM.
+  
+<a href="/" target="_blank">Calculadora de Índice de Massa Corpórea (IMC)</a>
+
+• Tecnologias: JavaScript, HTML, CSS <br>
+• Foco: lógica de cálculo, validação de dados
+
+ Projeto <a href="/">aqui</a>.
+
+<details>
+  <summary>Veja detalhes do projeto</summary>
+  <br>
+
+ <div align="center">
+  
+  <img src="/" width="75%">
+
+</div>
+  
+ </details>
+
+<br>
+
 ### Projetos no Frontend Mentor
 
-<ul>
+
   
-<li><a href="https://github.com/milennafeijo/Clipboard-landing-page" target="_blank">Clipboard Landing Page</a></li>
+<a href="https://github.com/milennafeijo/Clipboard-landing-page" target="_blank">Clipboard Landing Page</a>
 
-</ul>
+Landing page desenvolvida com foco em responsividade e boas práticas de layout moderno. 
 
-Projeto feito com HTML e CSS. 
+• Tecnologias: HTML, CSS <br>
+• Foco: layout responsivo 
 
-Esse é um projeto de landing page para um gerenciador de área de transferência, desenvolvido como um desafio do Frontend Mentor. O objetivo foi praticar a construção de layouts modernos e garantir uma experiência de usuário fluida em diferentes dispositivos.
 
-Você pode ver o projeto rodando <a href="https://milennafeijo.github.io/Clipboard-landing-page/">aqui</a>.
+
+
+
+Projeto <a href="https://milennafeijo.github.io/Clipboard-landing-page/"> aqui</a>.
 
 <details>
   <summary>Veja detalhes do projeto</summary>
@@ -27,19 +58,21 @@ Você pode ver o projeto rodando <a href="https://milennafeijo.github.io/Clipboa
   
  </details>
 
+
 <br>
 
-<ul>
+
   
-<li><a href="https://github.com/milennafeijo/Order_Summary_Component" target="_blank">Order Summary Component</a></li>
+<a href="https://github.com/milennafeijo/Order_Summary_Component" target="_blank">Order Summary Component</a>
 
-</ul>
+Desenvolvimento de um componente de resumo de pedido. 
 
-Projeto feito com HTML e CSS. 
+• Tecnologias: HTML, CSS <br>
+• Foco: componentização e responsividade
 
-Este projeto consistiu no desenvolvimento de um Componente de Resumo de Pedido (Order Summary). O desafio foi focado na criação de uma interface modular, seguindo fielmente o guia de estilos e garantindo a responsividade do card em diferentes viewports.
 
-Você pode ver o projeto rodando <a href="https://milennafeijo.github.io/Order_Summary_Component/#">aqui</a>.
+
+ Projeto <a href="https://milennafeijo.github.io/Order_Summary_Component/#">aqui</a>.
 
 <details>
   <summary>Veja detalhes do projeto</summary>
@@ -52,3 +85,5 @@ Você pode ver o projeto rodando <a href="https://milennafeijo.github.io/Order_S
 </div>
   
  </details>
+
+
