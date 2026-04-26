@@ -8,20 +8,21 @@ Repositório com projetos desenvolvidos para praticar fundamentos de JavaScript,
 
 Projetos focados em prática de lógica de programação e manipulação de DOM.
   
-<a href="/" target="_blank">Calculadora de Índice de Massa Corpórea (IMC)</a>
+<a href="https://github.com/milennafeijo/bmi-calculator" target="_blank">Calculadora de Índice de Massa Corpórea (IMC)</a>
 
 • Tecnologias: JavaScript, HTML, CSS <br>
 • Foco: lógica de cálculo, validação de dados
 
- Projeto <a href="/">aqui</a>.
+ Acesse o projeto <a href="https://milennafeijo.github.io/bmi-calculator/">aqui</a>.
 
 <details>
   <summary>Veja detalhes do projeto</summary>
-  <br>
+    <br>
 
  <div align="center">
   
-  <img src="/" width="75%">
+ <img width="70%" alt="image" src="https://github.com/user-attachments/assets/fbc167aa-bc30-43bb-bcd9-16ed4df80a1e" />
+
 
 </div>
   
@@ -44,7 +45,7 @@ Landing page desenvolvida com foco em responsividade e boas práticas de layout 
 
 
 
-Projeto <a href="https://milennafeijo.github.io/Clipboard-landing-page/"> aqui</a>.
+Acesse o projeto <a href="https://milennafeijo.github.io/Clipboard-landing-page/"> aqui</a>.
 
 <details>
   <summary>Veja detalhes do projeto</summary>
@@ -72,7 +73,7 @@ Desenvolvimento de um componente de resumo de pedido.
 
 
 
- Projeto <a href="https://milennafeijo.github.io/Order_Summary_Component/#">aqui</a>.
+Acesse o projeto <a href="https://milennafeijo.github.io/Order_Summary_Component/#">aqui</a>.
 
 <details>
   <summary>Veja detalhes do projeto</summary>
