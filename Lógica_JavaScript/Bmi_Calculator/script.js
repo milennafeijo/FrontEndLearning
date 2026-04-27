@@ -7,7 +7,21 @@ function calcularIMC() {
     const resultado = document.getElementById('resultado');
 
     if (nome !== '' && peso !== '' && altura !== '') {
-	const imc = (peso / (altura * altura)).toFixed(1);
+        const pesoNum = parseFloat(peso.replace(',', '.'));
+        let alturaNum = parseFloat(altura.replace(',', '.'));
+
+        if (alturaNum > 3) {
+            alturaNum = alturaNum / 100;
+        }
+
+        if (pesoNum <= 5 || pesoNum > 200 || alturaNum <= 0.9 || alturaNum > 2.8) {
+            resultado.textContent = 'Por favor, insira valores válidos!';
+            resultado.style.display = 'block';
+            resultado.style.color = 'red';
+            return;
+        }
+
+        const imc = (pesoNum / (alturaNum * alturaNum)).toFixed(1);
     const nomeFormatado = nome.charAt(0).toUpperCase() + nome.slice(1).toLowerCase();
     let classificacao = '';
     let cor = '';
