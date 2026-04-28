@@ -32,6 +32,28 @@ Projetos focados em prática de lógica de programação e manipulação de DOM.
 
 ### Projetos no Frontend Mentor
 
+<a href="https://github.com/milennafeijo/contact_form" target="_blank">Contact Form</a>
+
+Formulário de contato com validação de campos, feedback de erro e sucesso ao usuário utilizando JavaScript.
+
+• Tecnologias: HTML, CSS, JavaScript <br>
+• Foco: layout responsivo, validação de formulário e feedback ao usuário
+
+
+Acesse o projeto <a href="https://milennafeijo.github.io/contact_form/"> aqui</a>.
+
+<details>
+  <summary>Veja detalhes do projeto</summary>
+  <br>
+
+ <div align="center">
+  
+  
+
+</div>
+  
+ </details>
+
 
   
 <a href="https://github.com/milennafeijo/Clipboard-landing-page" target="_blank">Clipboard Landing Page</a>

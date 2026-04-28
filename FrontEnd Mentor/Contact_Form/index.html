@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - FrontEnd Mentor</title>
+
+    <link rel="stylesheet" href="./style.css">
+
+</head>
+
+<body>
+
+    <main>
+        <div class="container">
+
+            <form id="contact-form">
+                <h1>Contact Us</h1>
+
+                <div class="name_form">
+                    <div class="form-group">
+                        <label for="firstname">First Name *</label>
+                        <input type="text" id="firstname" name="firstname">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="lastname">Last Name *</label>
+                        <input type="text" id="lastname" name="lastname">
+                    </div>
+                </div>
+
+                <div class="error-message-name"></div>
+
+
+
+                <label for="email">Email Address *</label>
+                <input type="email" id="email" name="email">
+
+                <div class="error-message-email"></div>
+
+                <fieldset class="query-fieldset">
+                    <legend>Query Type *</legend>
+
+                    <div class="query-row">
+                        <div class="query-type-options">
+                            <input type="radio" id="general_enquiry" name="query_type" value="general">
+                            <label for="general_enquiry">General Enquiry</label>
+                        </div>
+
+                        <div class="query-type-options">
+                            <input type="radio" id="support_request" name="query_type" value="support">
+                            <label for="support_request">Support Request</label>
+                        </div>
+                    </div>
+
+                </fieldset>
+
+                <div class="error-message-query-type"></div>
+
+                <label for="message">Message *</label>
+                <textarea id="message" name="message"></textarea>
+
+                <div class="error-message"></div>
+
+                <div class="consent-field">
+                    <input type="checkbox" id="consent" name="consent">
+                    <label for="consent">I consent to being contacted by the team *</label>
+                </div>
+
+                <div class="error-message-consent"></div>
+
+                <button type="submit" id="submit" name="submit">Submit</button>
+
+
+
+                <div class="submitted-message">
+
+                    <img src="./images/icon-success-check.svg" alt="Success check">
+                    <p>Form submitted successfully!</p>
+                </div>
+
+            </form>
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer">
+            <p>Challenge by <a href="http://frontendmentor.io/" target="_blank">Frontend Mentor</a>. Coded by <a
+                    href="http://github.com/milennafeijo" target="_blank">Milenna Feijó</a></p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
