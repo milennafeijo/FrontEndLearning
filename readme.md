@@ -4,7 +4,7 @@
 Repositório com projetos desenvolvidos para praticar fundamentos de JavaScript, HTML e CSS.
 <br><br>
 
-### Projetos de lógica com JavaScript
+### ▶ Projetos de lógica com JavaScript
 
 Projetos focados em prática de lógica de programação e manipulação de DOM.
   
@@ -30,7 +30,7 @@ Projetos focados em prática de lógica de programação e manipulação de DOM.
 
 <br>
 
-### Projetos no Frontend Mentor
+### ▶ Projetos no Frontend Mentor
 
 <a href="https://github.com/milennafeijo/contact_form" target="_blank">Contact Form</a>
 
@@ -48,13 +48,14 @@ Acesse o projeto <a href="https://milennafeijo.github.io/contact_form/"> aqui</a
 
  <div align="center">
   
-  
+  <img width="70%" alt="image" src="https://github.com/user-attachments/assets/3a09581c-a2cd-47a1-82e9-b283f3853860" />
+
 
 </div>
   
  </details>
 
-
+<br>
   
 <a href="https://github.com/milennafeijo/Clipboard-landing-page" target="_blank">Clipboard Landing Page</a>
 
