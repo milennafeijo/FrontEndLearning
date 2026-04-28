@@ -21,7 +21,8 @@ Projetos focados em prática de lógica de programação e manipulação de DOM.
 
  <div align="center">
   
- <img width="70%" alt="image" src="https://github.com/user-attachments/assets/fbc167aa-bc30-43bb-bcd9-16ed4df80a1e" />
+<img width="70%" alt="image" src="https://github.com/user-attachments/assets/513c15eb-6c8e-471b-846f-1efee6dc112f" />
+
 
 
 </div>
