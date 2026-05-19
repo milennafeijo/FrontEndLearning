@@ -4,6 +4,34 @@
 Repositório com projetos desenvolvidos para praticar fundamentos de JavaScript, HTML e CSS.
 <br><br>
 
+### ▶ Projetos com consumo de API
+
+<a href="https://github.com/milennafeijo/visualizador-perfis-github" target="_blank">Visualizador de perfis do GitHub</a>
+
+Aplicação web que consome a API pública do GitHub para buscar e exibir dados de qualquer perfil de usuário.
+
+• Tecnologias: JavaScript, HTML, CSS
+• Foco: consumo de API REST (GitHub API), requisições fetch, manipulação de DOM
+
+ Acesse o projeto <a href="https://milennafeijo.github.io/visualizador-perfis-github/">aqui</a>.
+
+<details>
+  <summary>Veja detalhes do projeto</summary>
+    <br>
+
+ <div align="center">
+  
+<img width="70%" alt="image" src="/" />
+
+
+
+</div>
+  
+ </details>
+
+<br>
+
+
 ### ▶ Projetos de lógica com JavaScript
 
 Projetos focados em prática de lógica de programação e manipulação de DOM.
