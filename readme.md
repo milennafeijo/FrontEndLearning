@@ -21,7 +21,8 @@ Aplicação web que consome a API pública do GitHub para buscar e exibir dados 
 
  <div align="center">
   
-<img width="70%" alt="image" src="/" />
+<img width="70%" alt="image" src="https://github.com/user-attachments/assets/62e6764e-7380-4fbe-b473-b789c4137fbe" />
+
 
 
 
