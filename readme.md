@@ -10,7 +10,7 @@ Repositório com projetos desenvolvidos para praticar fundamentos de JavaScript,
 
 Aplicação web que consome a API pública do GitHub para buscar e exibir dados de qualquer perfil de usuário.
 
-• Tecnologias: JavaScript, HTML, CSS
+• Tecnologias: JavaScript, HTML, CSS <br>
 • Foco: consumo de API REST (GitHub API), requisições fetch, manipulação de DOM
 
  Acesse o projeto <a href="https://milennafeijo.github.io/visualizador-perfis-github/">aqui</a>.
