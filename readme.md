@@ -50,9 +50,7 @@ Projetos focados em prática de lógica de programação e manipulação de DOM.
 
  <div align="center">
   
-<img width="70%" alt="image" src="/" />
-
-
+<img width="916" height="419" alt="image" src="https://github.com/user-attachments/assets/2f25fbbe-7341-4577-9650-e3315d7ae0fc" />
 
 </div>
   
