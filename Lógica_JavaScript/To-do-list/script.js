@@ -4,6 +4,7 @@ const buttonAdd = document.getElementById('add-button');
 const textInput = document.getElementById('text-input');
 const todoList = document.getElementById('todo-list');
 
+
 function criarItem(text) {
 
     const item = document.createElement('label');
@@ -15,7 +16,7 @@ function criarItem(text) {
 
     const taskText = document.createElement('span');
     taskText.classList.add('task-text');
-    taskText.textContent = text;
+    taskText.textContent = text.texto;
 
     const button = document.createElement('button');
     button.classList.add('delete-button');
@@ -31,6 +32,16 @@ function criarItem(text) {
         localStorage.setItem('tarefas', JSON.stringify(tarefas));
     });
 
+    checkbox.addEventListener('change', function () {
+    text.concluida = checkbox.checked;
+    localStorage.setItem('tarefas', JSON.stringify(tarefas));
+
+    });
+
+    if (text.concluida === true) {
+        checkbox.checked = true;        
+    }
+
     todoList.appendChild(item);
 
 }
@@ -40,9 +51,11 @@ buttonAdd.addEventListener('click', function () {
     const text = textInput.value.trim();
     if (!text) return;
 
-    criarItem(text);
+    const tarefa = {texto: text, concluida: false};
 
-    tarefas.push(text);
+    criarItem(tarefa);
+
+    tarefas.push(tarefa);
     localStorage.setItem('tarefas', JSON.stringify(tarefas));
 
     textInput.value = '';
@@ -50,9 +63,13 @@ buttonAdd.addEventListener('click', function () {
 });
 
 
+
+
 localStorage.getItem('tarefas') && JSON.parse(localStorage.getItem('tarefas')).forEach(function (text) {
     criarItem(text);
     tarefas.push(text);
+   
+    
 });
 
 

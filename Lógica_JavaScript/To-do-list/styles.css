@@ -153,3 +153,19 @@ footer {
     font-size: 0.8rem;
     text-align: center;
 }
+
+@media (max-width: 600px) {
+    .container {
+        margin: 2rem auto;
+        padding: 0.5rem;
+    }
+
+    .input-section {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .input-section>button {
+        width: 100%;
+    }
+}
