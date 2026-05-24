@@ -36,6 +36,30 @@ Aplicação web que consome a API pública do GitHub para buscar e exibir dados 
 ### ▶ Projetos de lógica com JavaScript
 
 Projetos focados em prática de lógica de programação e manipulação de DOM.
+
+<a href="https://github.com/milennafeijo/to-do-list" target="_blank">To-do List</a>
+
+• Tecnologias: JavaScript, HTML, CSS <br>
+• Foco: manipulação do DOM, localStorage, funções reutilizáveis
+
+ Acesse o projeto <a href="https://milennafeijo.github.io/to-do-list/">aqui</a>.
+
+<details>
+  <summary>Veja detalhes do projeto</summary>
+    <br>
+
+ <div align="center">
+  
+<img width="70%" alt="image" src="/" />
+
+
+
+</div>
+  
+ </details>
+
+<br>
+
   
 <a href="https://github.com/milennafeijo/bmi-calculator" target="_blank">Calculadora de Índice de Massa Corpórea (IMC)</a>
 
