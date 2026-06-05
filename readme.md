@@ -48,10 +48,19 @@ Projetos focados em prática de lógica de programação e manipulação de DOM.
   <summary>Veja detalhes do projeto</summary>
     <br>
 
- <div align="center">
-  
-<img width="916" height="419" alt="image" src="" />
+<div align="center">
 
+  ## 📱 mobile: 
+
+<img width="501" height="489" alt="image" src="https://github.com/user-attachments/assets/38033850-971c-4d7f-bf03-b6cf231e0d52" />
+
+## 🖥️ desktop: 
+
+<img width="923" height="373" alt="image" src="https://github.com/user-attachments/assets/604b3ec8-20b9-4077-94f1-17c1aeb4cf4a" />
+
+  
+
+ 
 </div>
   
  </details>
