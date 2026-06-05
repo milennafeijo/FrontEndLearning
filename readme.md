@@ -25,7 +25,6 @@ Aplicação web que consome a API pública do GitHub para buscar e exibir dados 
 
 
 
-
 </div>
   
  </details>
@@ -36,6 +35,28 @@ Aplicação web que consome a API pública do GitHub para buscar e exibir dados 
 ### ▶ Projetos de lógica com JavaScript
 
 Projetos focados em prática de lógica de programação e manipulação de DOM.
+
+<a href="https://github.com/milennafeijo/cadastro-de-clientes-crud" target="_blank">Cadastro de Clientes (CRUD)</a>
+
+• Tecnologias: JavaScript, HTML, CSS <br>
+• Foco: create, read, update & delete, manipulação do DOM, localStorage, objetos e arrays! 
+
+ Acesse o projeto <a href="https://milennafeijo.github.io/cadastro-de-clientes-crud/">aqui</a>.
+
+
+<details>
+  <summary>Veja detalhes do projeto</summary>
+    <br>
+
+ <div align="center">
+  
+<img width="916" height="419" alt="image" src="" />
+
+</div>
+  
+ </details>
+
+<br>
 
 <a href="https://github.com/milennafeijo/to-do-list" target="_blank">To-do List</a>
 
