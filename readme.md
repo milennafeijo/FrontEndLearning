@@ -31,6 +31,28 @@ Aplicação web que consome a API pública do GitHub para buscar e exibir dados 
 
 <br>
 
+<a href="https://github.com/milennafeijo/gerador-de-frases" target="_blank">Gerador de frases com API</a>
+
+Um projeto simples em HTML, CSS e JavaScript que consome uma API pública de frases e exibe uma nova a cada clique no botão.
+
+• Tecnologias: JavaScript, HTML, CSS <br>
+• Foco: consumo de API REST, requisições fetch, manipulação de DOM
+
+ Acesse o projeto <a href="https://milennafeijo.github.io/gerador-de-frases/">aqui</a>.
+
+<details>
+  <summary>Veja detalhes do projeto</summary>
+    <br>
+
+ <div align="center">
+  
+
+</div>
+  
+ </details>
+
+<br>
+
 
 ### ▶ Projetos de lógica com JavaScript
 
