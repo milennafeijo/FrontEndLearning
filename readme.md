@@ -46,6 +46,8 @@ Um projeto simples em HTML, CSS e JavaScript que consome uma API pública de fra
 
  <div align="center">
   
+<img width="70%" alt="image" src="https://github.com/user-attachments/assets/589d046f-db54-40c9-b27a-d3b1c115ef1e" />
+
 
 </div>
   
